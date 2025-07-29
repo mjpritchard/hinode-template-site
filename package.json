@@ -41,7 +41,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "autoprefixer": "^10.4.21",
-    "eslint": "^9.31.0",
+    "eslint": "^9.32.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-n": "^17.21.3",
